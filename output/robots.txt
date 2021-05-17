@@ -1,0 +1,4 @@
+User-agent: *               #for all
+Disallow: /tag/*
+Disallow: /tag/
+Sitemap: https://www.sentencefinder.com/sitemap.xml
